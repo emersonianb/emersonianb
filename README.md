@@ -1,14 +1,20 @@
-### Olá, eu sou o Emerson👋
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Emerson+Ian:%29)](https://git.io/typing-svg)
+
 Estou atualmente cursando Engenharia da Computação no Instituto Federal da Paraíba - Campus Campina Grande!
 
 - 📫 Como me contactar: emersonianbezerra@gmail.com
 
 <div align="center">
   <a href="https://github.com/emersonianb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emersonianb&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonianb&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emersonianb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonianb&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### Main Skills:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Emerson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Emerson-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
