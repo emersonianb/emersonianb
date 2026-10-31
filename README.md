@@ -6,7 +6,6 @@
 Estou atualmente cursando Engenharia da Computação no Instituto Federal da Paraíba - Campus Campina Grande!
 
 - 📫 Como me contactar: emersonianbezerra@gmail.com
-- 
 ### Main Skills:
 
 <div style="display: inline_block"><br>
