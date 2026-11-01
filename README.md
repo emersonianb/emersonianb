@@ -49,7 +49,7 @@ I enjoy building projects that explore how AI can become more useful, accessible
 
 ## 🎓 Education
 
-- **University of Coimbra** — Master's in Informatics Engineering
+- **University of Coimbra** — Mobility in Informatics Engineering
 - **Federal Institute of Paraíba (IFPB)** — Computer Engineering
 
 ## 🌐 Let's Connect!
